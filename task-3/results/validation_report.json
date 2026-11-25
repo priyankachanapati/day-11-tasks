@@ -1,0 +1,10 @@
+{
+    "model": "openai/gpt-oss-120b",
+    "total_tickets": 20,
+    "valid_tickets": 20,
+    "failed_tickets": 0,
+    "total_retries": 0,
+    "validation_success_rate": 100.0,
+    "pass_threshold": 95,
+    "passed": true
+}

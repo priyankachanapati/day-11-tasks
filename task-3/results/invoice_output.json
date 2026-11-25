@@ -1,0 +1,23 @@
+{
+    "invoice_number": "INV-1001",
+    "vendor_name": "ABC Technologies",
+    "invoice_date": "2026-11-20",
+    "due_date": "2026-12-20",
+    "total_amount": 16000.0,
+    "currency": "INR",
+    "line_items": [
+        {
+            "item_name": "Laptop",
+            "quantity": 1.0,
+            "unit_price": 15000.0,
+            "line_total": 15000.0
+        },
+        {
+            "item_name": "Mouse",
+            "quantity": 2.0,
+            "unit_price": 500.0,
+            "line_total": 1000.0
+        }
+    ],
+    "notes": "Payment within 30 days."
+}

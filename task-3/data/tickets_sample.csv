@@ -1,0 +1,21 @@
+ticket_id,title,description,channel,priority
+T0001,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Urgent!!",Portal,Medium
+T0002,Change button colour,Please make the Save button blue to match the brand Raised by support team.,Chat,Low
+T0003,Font too small on FAQ,FAQ answers are hard to read on mobile Raised by support team.,Phone,Low
+T0004,Production site not loading,The main website shows a 500 error for every user Not sure if it's related.,Phone,Critical
+T0005,Change button colour,Please make the Save button blue to match the brand Customer called twice.,Chat,Low
+T0006,Orders not syncing to warehouse,"No orders have reached the warehouse system since 2 PM, dispatch is blocked Thanks.",Phone,Critical
+T0007,Footer link outdated,The footer still links to last year's offers page Not sure if it's related.,Email,Low
+T0008,Footer link outdated,The footer still links to last year's offers page Thanks.,Email,Low
+T0009,Profile photo upload fails,Uploading a PNG profile photo shows an error Thanks.,Phone,Medium
+T0010,Add dark mode,Request to add a dark mode option in settings Thanks.,Phone,Low
+T0011,Email notifications delayed,Order confirmation emails arrive an hour late Raised by support team.,Phone,Medium
+T0012,Footer link outdated,The footer still links to last year's offers page Urgent!!,Phone,Low
+T0013,Data breach suspected,We see logins from unknown locations on admin accounts Seen since morning.,Phone,Critical
+T0014,Change button colour,Please make the Save button blue to match the brand Please help.,Chat,Low
+T0015,Change button colour,Please make the Save button blue to match the brand,Phone,Low
+T0016,Profile photo upload fails,Uploading a PNG profile photo shows an error Raised by support team.,Phone,Medium
+T0017,Cannot reset password,Several users say the reset email never arrives Customer called twice.,Chat,High
+T0018,Change button colour,Please make the Save button blue to match the brand Please help.,Portal,Low
+T0019,Wrong delivery date shown,Order O100118 shows the wrong expected delivery date,Phone,Medium
+T0020,Slow checkout,Checkout takes over 30 seconds during evening hours Not sure if it's related.,Portal,High

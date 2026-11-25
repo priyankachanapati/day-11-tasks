@@ -1,0 +1,162 @@
+[
+    {
+        "ticket_id": "T0001",
+        "category": "Technical",
+        "priority": "Medium",
+        "summary": "Search results for \"mouse\" display unrelated items like bedsheets",
+        "sentiment": "Negative",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0002",
+        "category": "Technical",
+        "priority": "Low",
+        "summary": "Change Save button colour to blue",
+        "sentiment": "Neutral",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0003",
+        "category": "Technical",
+        "priority": "Low",
+        "summary": "Font size too small on mobile FAQ, making answers hard to read.",
+        "sentiment": "Neutral",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0004",
+        "category": "Technical",
+        "priority": "Critical",
+        "summary": "Production site returns 500 error for all users",
+        "sentiment": "Negative",
+        "requires_escalation": true
+    },
+    {
+        "ticket_id": "T0005",
+        "category": "Technical",
+        "priority": "Low",
+        "summary": "Change Save button color to blue",
+        "sentiment": "Neutral",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0006",
+        "category": "Technical",
+        "priority": "Critical",
+        "summary": "Orders not syncing to warehouse, blocking dispatch since 2\u202fPM.",
+        "sentiment": "Negative",
+        "requires_escalation": true
+    },
+    {
+        "ticket_id": "T0007",
+        "category": "Other",
+        "priority": "Low",
+        "summary": "Footer link points to outdated offers page",
+        "sentiment": "Negative",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0008",
+        "category": "Technical",
+        "priority": "Low",
+        "summary": "Footer still links to last year's offers page.",
+        "sentiment": "Positive",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0009",
+        "category": "Technical",
+        "priority": "Medium",
+        "summary": "Profile photo upload fails",
+        "sentiment": "Neutral",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0010",
+        "category": "Other",
+        "priority": "Low",
+        "summary": "Request to add a dark mode option in settings.",
+        "sentiment": "Positive",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0011",
+        "category": "Technical",
+        "priority": "Medium",
+        "summary": "Email notifications delayed",
+        "sentiment": "Negative",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0012",
+        "category": "Technical",
+        "priority": "Low",
+        "summary": "Footer links to outdated offers page",
+        "sentiment": "Negative",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0013",
+        "category": "Access",
+        "priority": "Critical",
+        "summary": "Data breach suspected due to logins from unknown locations on admin accounts",
+        "sentiment": "Negative",
+        "requires_escalation": true
+    },
+    {
+        "ticket_id": "T0014",
+        "category": "Technical",
+        "priority": "Low",
+        "summary": "Change button colour",
+        "sentiment": "Neutral",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0015",
+        "category": "Other",
+        "priority": "Low",
+        "summary": "Change Save button colour to blue",
+        "sentiment": "Neutral",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0016",
+        "category": "Technical",
+        "priority": "Medium",
+        "summary": "Profile photo upload fails",
+        "sentiment": "Neutral",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0017",
+        "category": "Access",
+        "priority": "High",
+        "summary": "Password reset emails not arriving for users",
+        "sentiment": "Negative",
+        "requires_escalation": true
+    },
+    {
+        "ticket_id": "T0018",
+        "category": "Other",
+        "priority": "Low",
+        "summary": "Change Save button colour to blue",
+        "sentiment": "Neutral",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0019",
+        "category": "Other",
+        "priority": "Medium",
+        "summary": "Wrong delivery date shown for order O100118",
+        "sentiment": "Neutral",
+        "requires_escalation": false
+    },
+    {
+        "ticket_id": "T0020",
+        "category": "Technical",
+        "priority": "High",
+        "summary": "Checkout takes over 30 seconds during evening hours",
+        "sentiment": "Negative",
+        "requires_escalation": false
+    }
+]

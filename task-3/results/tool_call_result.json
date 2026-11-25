@@ -1,0 +1,6 @@
+{
+    "model": "openai/gpt-oss-120b",
+    "tool_calls": 1,
+    "final_response": "Here\u2019s the conversion using the illustrative rate provided:\n\n- **Exchange rate:** 1\u202fEUR\u202f=\u202f1.08\u202fUSD  \n- **Amount:** 100\u202fEUR  \n\n**100\u202fEUR \u00d7 1.08\u202fUSD/EUR = 108\u202fUSD**\n\n*Note: The exchange rate used is illustrative and may differ from real\u2011time market rates.*",
+    "status": "completed"
+}
