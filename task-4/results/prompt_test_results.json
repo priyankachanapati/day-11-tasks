@@ -1,0 +1,157 @@
+{
+    "prompt_version": "v1.0",
+    "model": "openai/gpt-oss-120b",
+    "total_tests": 5,
+    "passed_tests": 5,
+    "failed_tests": 0,
+    "success_rate": 100.0,
+    "results": [
+        {
+            "ticket_id": "T0001",
+            "prompt_version": "v1.0",
+            "selected_examples": [
+                "EX001",
+                "EX002"
+            ],
+            "input": {
+                "ticket_id": "T0001",
+                "title": "Search results not relevant",
+                "description": "Searching for \"mouse\" shows bedsheets first Urgent!!",
+                "channel": "Portal",
+                "priority": "Medium"
+            },
+            "output": {
+                "ticket_id": "T0001",
+                "category": "Technical",
+                "priority": "Medium",
+                "summary": "Search returns irrelevant results, showing bedsheets before mouse.",
+                "sentiment": "Negative",
+                "requires_escalation": false
+            },
+            "valid": true,
+            "latency_ms": 1374.95,
+            "token_usage": {
+                "input_tokens": 913,
+                "output_tokens": 318,
+                "total_tokens": 1231
+            }
+        },
+        {
+            "ticket_id": "T0002",
+            "prompt_version": "v1.0",
+            "selected_examples": [
+                "EX005"
+            ],
+            "input": {
+                "ticket_id": "T0002",
+                "title": "Change button colour",
+                "description": "Please make the Save button blue to match the brand Raised by support team.",
+                "channel": "Chat",
+                "priority": "Low"
+            },
+            "output": {
+                "ticket_id": "T0002",
+                "category": "Technical",
+                "priority": "Low",
+                "summary": "Request to change the Save button color to blue to match the brand.",
+                "sentiment": "Neutral",
+                "requires_escalation": false
+            },
+            "valid": true,
+            "latency_ms": 1175.31,
+            "token_usage": {
+                "input_tokens": 761,
+                "output_tokens": 314,
+                "total_tokens": 1075
+            }
+        },
+        {
+            "ticket_id": "T0003",
+            "prompt_version": "v1.0",
+            "selected_examples": [
+                "EX005"
+            ],
+            "input": {
+                "ticket_id": "T0003",
+                "title": "Font too small on FAQ",
+                "description": "FAQ answers are hard to read on mobile Raised by support team.",
+                "channel": "Phone",
+                "priority": "Low"
+            },
+            "output": {
+                "ticket_id": "T0003",
+                "category": "Technical",
+                "priority": "Low",
+                "summary": "FAQ text is too small on mobile, making answers hard to read.",
+                "sentiment": "Neutral",
+                "requires_escalation": false
+            },
+            "valid": true,
+            "latency_ms": 1162.13,
+            "token_usage": {
+                "input_tokens": 761,
+                "output_tokens": 302,
+                "total_tokens": 1063
+            }
+        },
+        {
+            "ticket_id": "T0004",
+            "prompt_version": "v1.0",
+            "selected_examples": [
+                "EX001"
+            ],
+            "input": {
+                "ticket_id": "T0004",
+                "title": "Production site not loading",
+                "description": "The main website shows a 500 error for every user Not sure if it's related.",
+                "channel": "Phone",
+                "priority": "Critical"
+            },
+            "output": {
+                "ticket_id": "T0004",
+                "category": "Technical",
+                "priority": "Critical",
+                "summary": "Main website returns 500 error for all users.",
+                "sentiment": "Negative",
+                "requires_escalation": true
+            },
+            "valid": true,
+            "latency_ms": 836.71,
+            "token_usage": {
+                "input_tokens": 766,
+                "output_tokens": 232,
+                "total_tokens": 998
+            }
+        },
+        {
+            "ticket_id": "T0005",
+            "prompt_version": "v1.0",
+            "selected_examples": [
+                "EX001",
+                "EX002"
+            ],
+            "input": {
+                "ticket_id": "T0005",
+                "title": "Change button colour",
+                "description": "Please make the Save button blue to match the brand Customer called twice.",
+                "channel": "Chat",
+                "priority": "Low"
+            },
+            "output": {
+                "ticket_id": "T0005",
+                "category": "Technical",
+                "priority": "Low",
+                "summary": "Request to change Save button color to blue to match brand.",
+                "sentiment": "Neutral",
+                "requires_escalation": false
+            },
+            "valid": true,
+            "latency_ms": 1125.57,
+            "token_usage": {
+                "input_tokens": 907,
+                "output_tokens": 352,
+                "total_tokens": 1259
+            }
+        }
+    ]
+}
