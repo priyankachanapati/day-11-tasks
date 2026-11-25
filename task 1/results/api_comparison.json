@@ -1,0 +1,28 @@
+[
+    {
+        "provider": "Google Gemini",
+        "model": "gemini-2.5-flash",
+        "response": "A **Large Language Model (LLM)** is a type of artificial intelligence trained on massive amounts of text data to understand, generate, and manipulate human-like language.\n\n**Next-token prediction** is how LLMs work: given a sequence of words, the model calculates the most statistically probable next word (or \"token\") to follow. It's essentially guessing the next word based on all the text it has learned from.\n\n**Practical Example:** When you type \"How are\" into a search bar, and it suggests \"you\" or \"things\" as the next word.",
+        "input_tokens": 48,
+        "output_tokens": 120,
+        "thinking_tokens": 116,
+        "billable_output_tokens": 236,
+        "total_tokens": 284,
+        "latency_ms": 2524.62,
+        "input_price_per_million": 0.3,
+        "output_price_per_million": 2.5,
+        "estimated_cost_usd": 0.0006044,
+        "actual_billing": "Check Google AI Studio usage"
+    },
+    {
+        "provider": "Groq",
+        "model": "openai/gpt-oss-120b",
+        "response": "**Large Language Model (LLM)**  \nA Large Language Model is a neural\u2011network system trained on massive amounts of text. It learns statistical patterns of how words, phrases, and sentences tend to follow one another, enabling it to generate or understand human language across many topics.\n\n**Next\u2011token prediction (in simple terms)**  \nWhen you give an LLM a piece of text, it looks at the words (or sub\u2011word pieces) that have come before and asks: \u201cWhat is the most likely next word (or token) to appear here?\u201d It scores all possible tokens, picks the highest\u2011probability one (or samples from the distribution), outputs it, then repeats the process with the new longer context. The whole output is built token by token.\n\n**Practical example**  \nYou type a prompt to a chatbot:  \n\n```\nUser: \"What are the health benefits of drinking green tea?\"\n```\n\nThe model reads the prompt, predicts the next token \u201cDrinking\u201d, then \u201cgreen\u201d, then \u201ctea\u201d, then \u201chas\u201d, and continues token by token until it produces a full answer like:\n\n> \u201cDrinking green tea has been linked to improved metabolism, reduced risk of heart disease, and antioxidant benefits\u2026\u201d.\n\nEach word (or sub\u2011word) in that answer was",
+        "input_tokens": 117,
+        "output_tokens": 300,
+        "total_tokens": 417,
+        "latency_ms": 1310.94,
+        "estimated_cost_usd": 0.00019755,
+        "actual_billing": "Check Groq usage dashboard"
+    }
+]
