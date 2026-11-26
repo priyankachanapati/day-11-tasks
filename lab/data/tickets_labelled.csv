@@ -1,0 +1,801 @@
+ticket_id,title,description,channel,priority
+T0001,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Urgent!!",Portal,Medium
+T0002,Change button colour,Please make the Save button blue to match the brand Raised by support team.,Chat,Low
+T0003,Font too small on FAQ,FAQ answers are hard to read on mobile Raised by support team.,Phone,Low
+T0004,Production site not loading,The main website shows a 500 error for every user Not sure if it's related.,Phone,Critical
+T0005,Change button colour,Please make the Save button blue to match the brand Customer called twice.,Chat,Low
+T0006,Orders not syncing to warehouse,"No orders have reached the warehouse system since 2 PM, dispatch is blocked Thanks.",Phone,Critical
+T0007,Footer link outdated,The footer still links to last year's offers page Not sure if it's related.,Email,Low
+T0008,Footer link outdated,The footer still links to last year's offers page Thanks.,Email,Low
+T0009,Profile photo upload fails,Uploading a PNG profile photo shows an error Thanks.,Phone,Medium
+T0010,Add dark mode,Request to add a dark mode option in settings Thanks.,Phone,Low
+T0011,Email notifications delayed,Order confirmation emails arrive an hour late Raised by support team.,Phone,Medium
+T0012,Footer link outdated,The footer still links to last year's offers page Urgent!!,Phone,Low
+T0013,Data breach suspected,We see logins from unknown locations on admin accounts Seen since morning.,Phone,Critical
+T0014,Change button colour,Please make the Save button blue to match the brand Please help.,Chat,Low
+T0015,Change button colour,Please make the Save button blue to match the brand,Phone,Low
+T0016,Profile photo upload fails,Uploading a PNG profile photo shows an error Raised by support team.,Phone,Medium
+T0017,Cannot reset password,Several users say the reset email never arrives Customer called twice.,Chat,High
+T0018,Change button colour,Please make the Save button blue to match the brand Please help.,Portal,Low
+T0019,Wrong delivery date shown,Order O100118 shows the wrong expected delivery date,Phone,Medium
+T0020,Slow checkout,Checkout takes over 30 seconds during evening hours Not sure if it's related.,Portal,High
+T0021,Invoice amounts wrong,GST is calculated twice on invoices for some orders Please help.,Email,High
+T0022,Report export slow,The monthly sales export takes 5 minutes Thanks.,Chat,Medium
+T0023,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Not sure if it's related.",Phone,Low
+T0024,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Please help.",Phone,Low
+T0025,App crashes on launch for all users,After the update the mobile app crashes immediately on open Please help.,Chat,Critical
+T0026,Payment gateway down,"Customers cannot pay at checkout, all payments failing since 9 AM",Portal,Critical
+T0027,Wrong delivery date shown,Order O100199 shows the wrong expected delivery date,Phone,Medium
+T0028,Profile photo upload fails,Uploading a PNG profile photo shows an error Raised by support team.,Phone,Medium
+T0029,Email notifications delayed,Order confirmation emails arrive an hour late Raised by support team.,Chat,Medium
+T0030,Report export slow,The monthly sales export takes 5 minutes Please help.,Portal,Medium
+T0031,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Not sure if it's related.",Portal,Medium
+T0032,Report export slow,The monthly sales export takes 5 minutes Raised by support team.,Email,Medium
+T0033,Cannot reset password,Several users say the reset email never arrives Raised by support team.,Email,High
+T0034,Profile photo upload fails,Uploading a PNG profile photo shows an error,Email,Medium
+T0035,Font too small on FAQ,FAQ answers are hard to read on mobile,Email,Low
+T0036,Font too small on FAQ,FAQ answers are hard to read on mobile Customer called twice.,Phone,Low
+T0037,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Seen since morning.",Chat,Low
+T0038,Change button colour,Please make the Save button blue to match the brand Urgent!!,Phone,Low
+T0039,Invoice amounts wrong,GST is calculated twice on invoices for some orders Not sure if it's related.,Phone,High
+T0040,Cannot reset password,Several users say the reset email never arrives Raised by support team.,Email,High
+T0041,Footer link outdated,The footer still links to last year's offers page,Chat,Low
+T0042,Invoice amounts wrong,GST is calculated twice on invoices for some orders Not sure if it's related.,Phone,High
+T0043,Payment gateway down,"Customers cannot pay at checkout, all payments failing since 9 AM Please help.",Email,Critical
+T0044,Report export slow,The monthly sales export takes 5 minutes Not sure if it's related.,Chat,Medium
+T0045,Add dark mode,Request to add a dark mode option in settings Please help.,Chat,Low
+T0046,Wrong delivery date shown,Order O101194 shows the wrong expected delivery date Customer called twice.,Chat,Medium
+T0047,Login fails for some users,Users on older Android versions cannot log in Please help.,Portal,High
+T0048,Profile photo upload fails,Uploading a PNG profile photo shows an error Raised by support team.,Phone,Medium
+T0049,Search results not relevant,"Searching for ""mouse"" shows bedsheets first",Email,Medium
+T0050,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Seen since morning.",Email,Medium
+T0051,Production site not loading,The main website shows a 500 error for every user Not sure if it's related.,Phone,Critical
+T0052,Report export slow,The monthly sales export takes 5 minutes Seen since morning.,Chat,High
+T0053,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Not sure if it's related.",Portal,Medium
+T0054,Email notifications delayed,Order confirmation emails arrive an hour late Please help.,Email,Medium
+T0055,Cannot reset password,Several users say the reset email never arrives Thanks.,Chat,High
+T0056,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Thanks.",Portal,Medium
+T0057,Email notifications delayed,Order confirmation emails arrive an hour late Please help.,Chat,Low
+T0058,Profile photo upload fails,Uploading a PNG profile photo shows an error Not sure if it's related.,Portal,Medium
+T0059,Invoice amounts wrong,GST is calculated twice on invoices for some orders Urgent!!,Email,High
+T0060,Report export slow,The monthly sales export takes 5 minutes Thanks.,Portal,Medium
+T0061,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Please help.",Phone,Medium
+T0062,Add dark mode,Request to add a dark mode option in settings Thanks.,Phone,Low
+T0063,Login fails for some users,Users on older Android versions cannot log in Raised by support team.,Email,Medium
+T0064,Profile photo upload fails,Uploading a PNG profile photo shows an error Urgent!!,Phone,Medium
+T0065,Profile photo upload fails,Uploading a PNG profile photo shows an error,Phone,Medium
+T0066,Wrong delivery date shown,Order O100533 shows the wrong expected delivery date Urgent!!,Email,Medium
+T0067,Change button colour,Please make the Save button blue to match the brand,Chat,Low
+T0068,Production site not loading,The main website shows a 500 error for every user Customer called twice.,Phone,Critical
+T0069,Login fails for some users,Users on older Android versions cannot log in Not sure if it's related.,Portal,High
+T0070,Profile photo upload fails,Uploading a PNG profile photo shows an error Raised by support team.,Email,Medium
+T0071,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Raised by support team.",Email,Medium
+T0072,Email notifications delayed,Order confirmation emails arrive an hour late,Phone,Medium
+T0073,Footer link outdated,The footer still links to last year's offers page Not sure if it's related.,Email,Low
+T0074,Search results not relevant,"Searching for ""mouse"" shows bedsheets first",Email,Medium
+T0075,Add dark mode,Request to add a dark mode option in settings Urgent!!,Portal,Low
+T0076,Footer link outdated,The footer still links to last year's offers page Urgent!!,Portal,Low
+T0077,Change button colour,Please make the Save button blue to match the brand URGENT please fix today,Chat,Low
+T0078,Invoice amounts wrong,GST is calculated twice on invoices for some orders Customer called twice.,Chat,High
+T0079,Report export slow,The monthly sales export takes 5 minutes Customer called twice.,Portal,Medium
+T0080,Search results not relevant,"Searching for ""mouse"" shows bedsheets first",Phone,Medium
+T0081,Footer link outdated,The footer still links to last year's offers page Raised by support team.,Portal,Low
+T0082,Refund not processed,"Customer refund for order O100106 pending for 10 days, customer escalated Not sure if it's related.",Portal,High
+T0083,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Seen since morning.",Phone,Medium
+T0084,Login fails for some users,Users on older Android versions cannot log in Urgent!!,Portal,High
+T0085,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Not sure if it's related.",Portal,Medium
+T0086,Orders not syncing to warehouse,"No orders have reached the warehouse system since last night, dispatch is blocked Raised by support team.",Chat,Critical
+T0087,Footer link outdated,The footer still links to last year's offers page Urgent!!,Email,Low
+T0088,Change button colour,Please make the Save button blue to match the brand Thanks.,Portal,Low
+T0089,Font too small on FAQ,FAQ answers are hard to read on mobile Thanks.,Portal,Low
+T0090,Wrong delivery date shown,Order O100502 shows the wrong expected delivery date,Chat,Medium
+T0091,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Please help.",Chat,Medium
+T0092,Refund not processed,"Customer refund for order O100051 pending for 10 days, customer escalated Thanks.",Chat,High
+T0093,Search results not relevant,"Searching for ""mouse"" shows bedsheets first",Portal,Medium
+T0094,Email notifications delayed,Order confirmation emails arrive an hour late Please help.,Email,High
+T0095,Slow checkout,Checkout takes over 30 seconds during evening hours Please help.,Portal,High
+T0096,Login fails for some users,Users on older Android versions cannot log in Raised by support team.,Portal,High
+T0097,Profile photo upload fails,Uploading a PNG profile photo shows an error Seen since morning.,Phone,Medium
+T0098,Email notifications delayed,Order confirmation emails arrive an hour late Seen since morning.,Email,Medium
+T0099,Report export slow,The monthly sales export takes 5 minutes Customer called twice.,Phone,Medium
+T0100,Email notifications delayed,Order confirmation emails arrive an hour late Urgent!!,Chat,Medium
+T0101,Change button colour,Please make the Save button blue to match the brand Thanks.,Phone,Low
+T0102,Cannot reset password,Several users say the reset email never arrives Urgent!!,Chat,High
+T0103,Add dark mode,Request to add a dark mode option in settings Raised by support team.,Email,Low
+T0104,Font too small on FAQ,FAQ answers are hard to read on mobile Seen since morning.,Chat,Low
+T0105,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place URGENT please fix today",Email,Low
+T0106,Search results not relevant,"Searching for ""mouse"" shows bedsheets first",Portal,Medium
+T0107,Report export slow,The monthly sales export takes 5 minutes Seen since morning.,Email,Medium
+T0108,Footer link outdated,The footer still links to last year's offers page Seen since morning.,Phone,Low
+T0109,Wrong delivery date shown,Order O100228 shows the wrong expected delivery date Please help.,Email,Medium
+T0110,Invoice amounts wrong,GST is calculated twice on invoices for some orders Urgent!!,Chat,Medium
+T0111,Slow checkout,Checkout takes over 30 seconds during evening hours Urgent!!,Portal,High
+T0112,Refund not processed,"Customer refund for order O100003 pending for 10 days, customer escalated Please help.",Chat,High
+T0113,Font too small on FAQ,FAQ answers are hard to read on mobile Thanks.,Email,Low
+T0114,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Customer called twice.",Chat,Medium
+T0115,Slow checkout,Checkout takes over 30 seconds during evening hours Raised by support team.,Portal,High
+T0116,Profile photo upload fails,Uploading a PNG profile photo shows an error Urgent!!,Phone,Medium
+T0117,Email notifications delayed,Order confirmation emails arrive an hour late Customer called twice.,Portal,Medium
+T0118,Report export slow,The monthly sales export takes 5 minutes Not sure if it's related.,Email,Medium
+T0119,Font too small on FAQ,FAQ answers are hard to read on mobile Seen since morning.,Email,Low
+T0120,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Urgent!!",Portal,Low
+T0121,Invoice amounts wrong,GST is calculated twice on invoices for some orders Customer called twice.,Portal,High
+T0122,Slow checkout,Checkout takes over 30 seconds during evening hours Not sure if it's related.,Chat,High
+T0123,Cannot reset password,Several users say the reset email never arrives Thanks.,Portal,High
+T0124,Invoice amounts wrong,GST is calculated twice on invoices for some orders Please help.,Email,High
+T0125,Font too small on FAQ,FAQ answers are hard to read on mobile Not sure if it's related.,Email,Low
+T0126,Report export slow,The monthly sales export takes 5 minutes Thanks.,Chat,Medium
+T0127,Footer link outdated,The footer still links to last year's offers page Please help.,Email,Low
+T0128,Font too small on FAQ,FAQ answers are hard to read on mobile Seen since morning.,Portal,Low
+T0129,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Customer called twice.",Email,Low
+T0130,Invoice amounts wrong,GST is calculated twice on invoices for some orders Please help.,Email,High
+T0131,Wrong delivery date shown,Order O100381 shows the wrong expected delivery date Urgent!!,Portal,Medium
+T0132,Footer link outdated,The footer still links to last year's offers page Customer called twice.,Email,Low
+T0133,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place URGENT please fix today",Phone,Low
+T0134,Wrong delivery date shown,Order O100761 shows the wrong expected delivery date,Email,Medium
+T0135,Wrong delivery date shown,Order O100888 shows the wrong expected delivery date Not sure if it's related.,Email,Medium
+T0136,Footer link outdated,The footer still links to last year's offers page Not sure if it's related.,Email,Low
+T0137,Refund not processed,"Customer refund for order O100048 pending for 10 days, customer escalated Thanks.",Email,High
+T0138,Invoice amounts wrong,GST is calculated twice on invoices for some orders Thanks.,Chat,High
+T0139,Font too small on FAQ,FAQ answers are hard to read on mobile Raised by support team.,Portal,Low
+T0140,Profile photo upload fails,Uploading a PNG profile photo shows an error Customer called twice.,Email,Medium
+T0141,Slow checkout,Checkout takes over 30 seconds during evening hours Not sure if it's related.,Phone,Medium
+T0142,Report export slow,The monthly sales export takes 5 minutes Please help.,Portal,Medium
+T0143,Wrong delivery date shown,Order O100965 shows the wrong expected delivery date Please help.,Portal,Medium
+T0144,Report export slow,The monthly sales export takes 5 minutes Please help.,Phone,Medium
+T0145,Email notifications delayed,Order confirmation emails arrive an hour late Raised by support team.,Email,Medium
+T0146,Change button colour,Please make the Save button blue to match the brand Not sure if it's related.,Portal,Low
+T0147,Add dark mode,Request to add a dark mode option in settings Raised by support team.,Phone,Low
+T0148,Wrong delivery date shown,Order O100104 shows the wrong expected delivery date,Phone,Medium
+T0149,Footer link outdated,The footer still links to last year's offers page URGENT please fix today,Chat,Low
+T0150,Change button colour,Please make the Save button blue to match the brand Customer called twice.,Email,Low
+T0151,Footer link outdated,The footer still links to last year's offers page Thanks.,Chat,Low
+T0152,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Please help.",Portal,Low
+T0153,Wrong delivery date shown,Order O100406 shows the wrong expected delivery date Urgent!!,Chat,Low
+T0154,Wrong delivery date shown,Order O101055 shows the wrong expected delivery date Not sure if it's related.,Portal,Medium
+T0155,Cannot reset password,Several users say the reset email never arrives Not sure if it's related.,Email,High
+T0156,Change button colour,Please make the Save button blue to match the brand Raised by support team.,Phone,Low
+T0157,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place",Portal,Low
+T0158,Email notifications delayed,Order confirmation emails arrive an hour late,Portal,Medium
+T0159,Invoice amounts wrong,GST is calculated twice on invoices for some orders Customer called twice.,Phone,High
+T0160,Invoice amounts wrong,GST is calculated twice on invoices for some orders Seen since morning.,Chat,High
+T0161,Orders not syncing to warehouse,"No orders have reached the warehouse system since last night, dispatch is blocked",Portal,Critical
+T0162,Login fails for some users,Users on older Android versions cannot log in Thanks.,Portal,High
+T0163,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Seen since morning.",Phone,Low
+T0164,Slow checkout,Checkout takes over 30 seconds during evening hours Raised by support team.,Phone,High
+T0165,Email notifications delayed,Order confirmation emails arrive an hour late,Email,Medium
+T0166,Wrong delivery date shown,Order O100971 shows the wrong expected delivery date Please help.,Portal,Medium
+T0167,Footer link outdated,The footer still links to last year's offers page Not sure if it's related.,Chat,Low
+T0168,Slow checkout,Checkout takes over 30 seconds during evening hours Please help.,Phone,High
+T0169,Profile photo upload fails,Uploading a PNG profile photo shows an error,Phone,Medium
+T0170,Add dark mode,Request to add a dark mode option in settings Seen since morning.,Email,Low
+T0171,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Not sure if it's related.",Portal,Medium
+T0172,Data breach suspected,We see logins from unknown locations on admin accounts Urgent!!,Email,Critical
+T0173,Profile photo upload fails,Uploading a PNG profile photo shows an error Urgent!!,Portal,Medium
+T0174,Payment gateway down,"Customers cannot pay at checkout, all payments failing since last night Raised by support team.",Chat,Critical
+T0175,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Customer called twice.",Chat,Low
+T0176,Email notifications delayed,Order confirmation emails arrive an hour late,Portal,Medium
+T0177,Cannot reset password,Several users say the reset email never arrives Customer called twice.,Phone,High
+T0178,Slow checkout,Checkout takes over 30 seconds during evening hours Seen since morning.,Portal,High
+T0179,Cannot reset password,Several users say the reset email never arrives Please help.,Email,High
+T0180,Profile photo upload fails,Uploading a PNG profile photo shows an error Seen since morning.,Chat,High
+T0181,Slow checkout,Checkout takes over 30 seconds during evening hours Customer called twice.,Phone,High
+T0182,Font too small on FAQ,FAQ answers are hard to read on mobile Customer called twice.,Phone,Low
+T0183,Invoice amounts wrong,GST is calculated twice on invoices for some orders Not sure if it's related.,Chat,High
+T0184,Cannot reset password,Several users say the reset email never arrives Urgent!!,Portal,High
+T0185,Email notifications delayed,Order confirmation emails arrive an hour late Urgent!!,Email,Medium
+T0186,Report export slow,The monthly sales export takes 5 minutes Customer called twice.,Email,Medium
+T0187,Report export slow,The monthly sales export takes 5 minutes,Chat,Medium
+T0188,Login fails for some users,Users on older Android versions cannot log in Raised by support team.,Portal,High
+T0189,Email notifications delayed,Order confirmation emails arrive an hour late Seen since morning.,Portal,Medium
+T0190,Email notifications delayed,Order confirmation emails arrive an hour late Customer called twice.,Portal,Medium
+T0191,Orders not syncing to warehouse,"No orders have reached the warehouse system since 9 AM, dispatch is blocked Seen since morning.",Email,Critical
+T0192,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Thanks.",Chat,Medium
+T0193,Slow checkout,Checkout takes over 30 seconds during evening hours Seen since morning.,Phone,High
+T0194,Footer link outdated,The footer still links to last year's offers page URGENT please fix today,Phone,Low
+T0195,Report export slow,The monthly sales export takes 5 minutes Please help.,Portal,Low
+T0196,Email notifications delayed,Order confirmation emails arrive an hour late,Portal,Medium
+T0197,Wrong delivery date shown,Order O100025 shows the wrong expected delivery date Raised by support team.,Email,Medium
+T0198,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Please help.",Chat,Medium
+T0199,Wrong delivery date shown,Order O100854 shows the wrong expected delivery date Not sure if it's related.,Chat,Medium
+T0200,Email notifications delayed,Order confirmation emails arrive an hour late Raised by support team.,Email,Medium
+T0201,Invoice amounts wrong,GST is calculated twice on invoices for some orders Please help.,Chat,High
+T0202,Cannot reset password,Several users say the reset email never arrives Thanks.,Email,High
+T0203,Footer link outdated,The footer still links to last year's offers page Thanks.,Chat,Medium
+T0204,Add dark mode,Request to add a dark mode option in settings Raised by support team.,Phone,Low
+T0205,Email notifications delayed,Order confirmation emails arrive an hour late Please help.,Phone,Medium
+T0206,Cannot reset password,Several users say the reset email never arrives Urgent!!,Phone,High
+T0207,Footer link outdated,The footer still links to last year's offers page URGENT please fix today,Chat,Low
+T0208,Report export slow,The monthly sales export takes 5 minutes Not sure if it's related.,Chat,Medium
+T0209,Profile photo upload fails,Uploading a PNG profile photo shows an error Customer called twice.,Portal,Medium
+T0210,Email notifications delayed,Order confirmation emails arrive an hour late,Portal,Medium
+T0211,Invoice amounts wrong,GST is calculated twice on invoices for some orders Customer called twice.,Email,High
+T0212,Cannot reset password,Several users say the reset email never arrives Thanks.,Chat,High
+T0213,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Urgent!!",Portal,Low
+T0214,Font too small on FAQ,FAQ answers are hard to read on mobile Please help.,Portal,Low
+T0215,Slow checkout,Checkout takes over 30 seconds during evening hours Please help.,Phone,High
+T0216,Cannot reset password,Several users say the reset email never arrives Not sure if it's related.,Phone,High
+T0217,Report export slow,The monthly sales export takes 5 minutes Seen since morning.,Email,Medium
+T0218,Font too small on FAQ,FAQ answers are hard to read on mobile Please help.,Phone,Low
+T0219,Footer link outdated,The footer still links to last year's offers page Raised by support team.,Chat,Low
+T0220,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place",Phone,Low
+T0221,Email notifications delayed,Order confirmation emails arrive an hour late Seen since morning.,Portal,Medium
+T0222,Wrong delivery date shown,Order O100895 shows the wrong expected delivery date Not sure if it's related.,Phone,High
+T0223,Add dark mode,Request to add a dark mode option in settings URGENT please fix today,Email,Low
+T0224,Email notifications delayed,Order confirmation emails arrive an hour late Please help.,Phone,Medium
+T0225,Slow checkout,Checkout takes over 30 seconds during evening hours Customer called twice.,Phone,High
+T0226,Email notifications delayed,Order confirmation emails arrive an hour late Seen since morning.,Chat,Medium
+T0227,Footer link outdated,The footer still links to last year's offers page Urgent!!,Phone,Low
+T0228,Add dark mode,Request to add a dark mode option in settings Urgent!!,Email,Low
+T0229,Profile photo upload fails,Uploading a PNG profile photo shows an error Customer called twice.,Phone,Medium
+T0230,Profile photo upload fails,Uploading a PNG profile photo shows an error Customer called twice.,Chat,Medium
+T0231,Report export slow,The monthly sales export takes 5 minutes Thanks.,Chat,Medium
+T0232,Report export slow,The monthly sales export takes 5 minutes Thanks.,Chat,Medium
+T0233,Profile photo upload fails,Uploading a PNG profile photo shows an error Not sure if it's related.,Phone,Medium
+T0234,Data breach suspected,We see logins from unknown locations on admin accounts Please help.,Portal,Critical
+T0235,Invoice amounts wrong,GST is calculated twice on invoices for some orders Not sure if it's related.,Portal,Critical
+T0236,Cannot reset password,Several users say the reset email never arrives,Phone,High
+T0237,Add dark mode,Request to add a dark mode option in settings Raised by support team.,Portal,Low
+T0238,Profile photo upload fails,Uploading a PNG profile photo shows an error Customer called twice.,Portal,Medium
+T0239,Footer link outdated,The footer still links to last year's offers page Please help.,Phone,Low
+T0240,Email notifications delayed,Order confirmation emails arrive an hour late Thanks.,Email,Medium
+T0241,Add dark mode,Request to add a dark mode option in settings Raised by support team.,Chat,Medium
+T0242,Wrong delivery date shown,Order O100766 shows the wrong expected delivery date Seen since morning.,Chat,Medium
+T0243,Login fails for some users,Users on older Android versions cannot log in,Chat,High
+T0244,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place",Portal,Low
+T0245,Invoice amounts wrong,GST is calculated twice on invoices for some orders Thanks.,Email,High
+T0246,Footer link outdated,The footer still links to last year's offers page URGENT please fix today,Portal,Medium
+T0247,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Customer called twice.",Phone,Low
+T0248,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Please help.",Chat,High
+T0249,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Seen since morning.",Portal,Low
+T0250,Wrong delivery date shown,Order O101094 shows the wrong expected delivery date Seen since morning.,Phone,Medium
+T0251,Report export slow,The monthly sales export takes 5 minutes,Email,Medium
+T0252,Add dark mode,Request to add a dark mode option in settings,Email,Low
+T0253,Add dark mode,Request to add a dark mode option in settings Customer called twice.,Email,Low
+T0254,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Not sure if it's related.",Chat,Medium
+T0255,Profile photo upload fails,Uploading a PNG profile photo shows an error Not sure if it's related.,Phone,Medium
+T0256,Report export slow,The monthly sales export takes 5 minutes Customer called twice.,Phone,Medium
+T0257,Profile photo upload fails,Uploading a PNG profile photo shows an error Urgent!!,Portal,Medium
+T0258,Report export slow,The monthly sales export takes 5 minutes Not sure if it's related.,Phone,Medium
+T0259,Wrong delivery date shown,Order O100496 shows the wrong expected delivery date Seen since morning.,Chat,Medium
+T0260,Font too small on FAQ,FAQ answers are hard to read on mobile Not sure if it's related.,Portal,Low
+T0261,Report export slow,The monthly sales export takes 5 minutes Please help.,Email,Medium
+T0262,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Customer called twice.",Portal,Medium
+T0263,Refund not processed,"Customer refund for order O100138 pending for 10 days, customer escalated Urgent!!",Portal,High
+T0264,Footer link outdated,The footer still links to last year's offers page Customer called twice.,Portal,Low
+T0265,Orders not syncing to warehouse,"No orders have reached the warehouse system since 9 AM, dispatch is blocked Not sure if it's related.",Chat,Critical
+T0266,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place URGENT please fix today",Email,Low
+T0267,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Please help.",Chat,Low
+T0268,Add dark mode,Request to add a dark mode option in settings Raised by support team.,Chat,Low
+T0269,Email notifications delayed,Order confirmation emails arrive an hour late Customer called twice.,Phone,Medium
+T0270,Login fails for some users,Users on older Android versions cannot log in Please help.,Portal,High
+T0271,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Thanks.",Chat,Medium
+T0272,App crashes on launch for all users,After the update the mobile app crashes immediately on open Raised by support team.,Email,Critical
+T0273,Wrong delivery date shown,Order O100339 shows the wrong expected delivery date Please help.,Chat,Medium
+T0274,Footer link outdated,The footer still links to last year's offers page URGENT please fix today,Chat,Low
+T0275,Add dark mode,Request to add a dark mode option in settings Thanks.,Portal,Low
+T0276,Refund not processed,"Customer refund for order O100944 pending for 10 days, customer escalated Thanks.",Email,High
+T0277,Report export slow,The monthly sales export takes 5 minutes Seen since morning.,Portal,Medium
+T0278,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Thanks.",Phone,Medium
+T0279,Profile photo upload fails,Uploading a PNG profile photo shows an error Thanks.,Chat,Medium
+T0280,Slow checkout,Checkout takes over 30 seconds during evening hours Customer called twice.,Chat,High
+T0281,Footer link outdated,The footer still links to last year's offers page Not sure if it's related.,Email,Low
+T0282,Font too small on FAQ,FAQ answers are hard to read on mobile,Email,Low
+T0283,Slow checkout,Checkout takes over 30 seconds during evening hours Thanks.,Portal,Critical
+T0284,Wrong delivery date shown,Order O100167 shows the wrong expected delivery date,Chat,Medium
+T0285,Report export slow,The monthly sales export takes 5 minutes Please help.,Chat,Medium
+T0286,Profile photo upload fails,Uploading a PNG profile photo shows an error Raised by support team.,Email,Medium
+T0287,Wrong delivery date shown,Order O100421 shows the wrong expected delivery date Customer called twice.,Phone,Medium
+T0288,Report export slow,The monthly sales export takes 5 minutes Seen since morning.,Chat,Medium
+T0289,Add dark mode,Request to add a dark mode option in settings Not sure if it's related.,Chat,Low
+T0290,Email notifications delayed,Order confirmation emails arrive an hour late Thanks.,Portal,Medium
+T0291,Orders not syncing to warehouse,"No orders have reached the warehouse system since 9 AM, dispatch is blocked",Phone,Critical
+T0292,Change button colour,Please make the Save button blue to match the brand,Email,Low
+T0293,Email notifications delayed,Order confirmation emails arrive an hour late Please help.,Chat,High
+T0294,Change button colour,Please make the Save button blue to match the brand Thanks.,Phone,Low
+T0295,Report export slow,The monthly sales export takes 5 minutes Please help.,Email,Medium
+T0296,Change button colour,Please make the Save button blue to match the brand Thanks.,Portal,Low
+T0297,Invoice amounts wrong,GST is calculated twice on invoices for some orders Raised by support team.,Email,High
+T0298,Profile photo upload fails,Uploading a PNG profile photo shows an error Customer called twice.,Email,Medium
+T0299,Font too small on FAQ,FAQ answers are hard to read on mobile Not sure if it's related.,Chat,Low
+T0300,Email notifications delayed,Order confirmation emails arrive an hour late Please help.,Chat,Medium
+T0301,Add dark mode,Request to add a dark mode option in settings Please help.,Portal,Medium
+T0302,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Thanks.",Phone,Medium
+T0303,Font too small on FAQ,FAQ answers are hard to read on mobile Raised by support team.,Chat,Low
+T0304,Add dark mode,Request to add a dark mode option in settings Customer called twice.,Email,Low
+T0305,Payment gateway down,"Customers cannot pay at checkout, all payments failing since 9 AM",Email,Critical
+T0306,Cannot reset password,Several users say the reset email never arrives Please help.,Chat,High
+T0307,Invoice amounts wrong,GST is calculated twice on invoices for some orders Urgent!!,Phone,Medium
+T0308,Email notifications delayed,Order confirmation emails arrive an hour late Not sure if it's related.,Email,Medium
+T0309,Login fails for some users,Users on older Android versions cannot log in Thanks.,Chat,High
+T0310,Add dark mode,Request to add a dark mode option in settings Urgent!!,Portal,Low
+T0311,Font too small on FAQ,FAQ answers are hard to read on mobile URGENT please fix today,Chat,Low
+T0312,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Customer called twice.",Phone,Medium
+T0313,Wrong delivery date shown,Order O100849 shows the wrong expected delivery date Raised by support team.,Portal,Medium
+T0314,Slow checkout,Checkout takes over 30 seconds during evening hours Seen since morning.,Portal,High
+T0315,Report export slow,The monthly sales export takes 5 minutes Not sure if it's related.,Chat,Medium
+T0316,Font too small on FAQ,FAQ answers are hard to read on mobile Not sure if it's related.,Phone,Low
+T0317,Report export slow,The monthly sales export takes 5 minutes,Phone,Medium
+T0318,Production site not loading,The main website shows a 500 error for every user Urgent!!,Chat,Critical
+T0319,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place URGENT please fix today",Portal,Low
+T0320,Footer link outdated,The footer still links to last year's offers page Please help.,Email,Low
+T0321,Report export slow,The monthly sales export takes 5 minutes Thanks.,Portal,Medium
+T0322,Report export slow,The monthly sales export takes 5 minutes Raised by support team.,Portal,Medium
+T0323,Slow checkout,Checkout takes over 30 seconds during evening hours,Email,High
+T0324,Invoice amounts wrong,GST is calculated twice on invoices for some orders Customer called twice.,Email,Medium
+T0325,Add dark mode,Request to add a dark mode option in settings Seen since morning.,Phone,Low
+T0326,Add dark mode,Request to add a dark mode option in settings URGENT please fix today,Email,Medium
+T0327,Add dark mode,Request to add a dark mode option in settings URGENT please fix today,Email,Low
+T0328,Production site not loading,The main website shows a 500 error for every user Raised by support team.,Portal,Critical
+T0329,Profile photo upload fails,Uploading a PNG profile photo shows an error,Chat,Medium
+T0330,Invoice amounts wrong,GST is calculated twice on invoices for some orders Raised by support team.,Chat,High
+T0331,Change button colour,Please make the Save button blue to match the brand Please help.,Chat,Low
+T0332,Slow checkout,Checkout takes over 30 seconds during evening hours Customer called twice.,Phone,High
+T0333,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Raised by support team.",Email,Medium
+T0334,Report export slow,The monthly sales export takes 5 minutes Seen since morning.,Chat,Medium
+T0335,Report export slow,The monthly sales export takes 5 minutes Seen since morning.,Chat,Medium
+T0336,Report export slow,The monthly sales export takes 5 minutes Customer called twice.,Phone,Medium
+T0337,Wrong delivery date shown,Order O100358 shows the wrong expected delivery date Urgent!!,Phone,Medium
+T0338,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Thanks.",Email,Medium
+T0339,Invoice amounts wrong,GST is calculated twice on invoices for some orders Thanks.,Email,High
+T0340,Footer link outdated,The footer still links to last year's offers page Urgent!!,Portal,Low
+T0341,Invoice amounts wrong,GST is calculated twice on invoices for some orders Customer called twice.,Portal,Medium
+T0342,App crashes on launch for all users,After the update the mobile app crashes immediately on open Not sure if it's related.,Phone,Critical
+T0343,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Please help.",Chat,Medium
+T0344,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Raised by support team.",Email,Low
+T0345,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Not sure if it's related.",Portal,Medium
+T0346,Cannot reset password,Several users say the reset email never arrives Customer called twice.,Phone,High
+T0347,Wrong delivery date shown,Order O100734 shows the wrong expected delivery date Not sure if it's related.,Email,Medium
+T0348,App crashes on launch for all users,After the update the mobile app crashes immediately on open Not sure if it's related.,Portal,Critical
+T0349,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Thanks.",Chat,Medium
+T0350,Report export slow,The monthly sales export takes 5 minutes Seen since morning.,Chat,Medium
+T0351,Profile photo upload fails,Uploading a PNG profile photo shows an error Thanks.,Email,Medium
+T0352,Refund not processed,"Customer refund for order O101099 pending for 10 days, customer escalated Please help.",Chat,High
+T0353,Report export slow,The monthly sales export takes 5 minutes Not sure if it's related.,Email,Medium
+T0354,Login fails for some users,Users on older Android versions cannot log in Thanks.,Chat,High
+T0355,Email notifications delayed,Order confirmation emails arrive an hour late Urgent!!,Email,Medium
+T0356,Data breach suspected,We see logins from unknown locations on admin accounts Please help.,Phone,Critical
+T0357,Footer link outdated,The footer still links to last year's offers page Thanks.,Email,Low
+T0358,Footer link outdated,The footer still links to last year's offers page Raised by support team.,Email,Low
+T0359,Report export slow,The monthly sales export takes 5 minutes Urgent!!,Portal,Medium
+T0360,Slow checkout,Checkout takes over 30 seconds during evening hours,Portal,High
+T0361,Login fails for some users,Users on older Android versions cannot log in,Portal,High
+T0362,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Seen since morning.",Chat,Low
+T0363,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place URGENT please fix today",Portal,Low
+T0364,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place",Chat,Low
+T0365,Wrong delivery date shown,Order O100661 shows the wrong expected delivery date Raised by support team.,Portal,Medium
+T0366,Wrong delivery date shown,Order O100428 shows the wrong expected delivery date,Portal,Medium
+T0367,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Please help.",Chat,Medium
+T0368,Footer link outdated,The footer still links to last year's offers page Urgent!!,Phone,Low
+T0369,Wrong delivery date shown,Order O100705 shows the wrong expected delivery date Not sure if it's related.,Chat,Medium
+T0370,Slow checkout,Checkout takes over 30 seconds during evening hours Seen since morning.,Phone,High
+T0371,Font too small on FAQ,FAQ answers are hard to read on mobile Raised by support team.,Phone,Low
+T0372,Profile photo upload fails,Uploading a PNG profile photo shows an error Urgent!!,Portal,Medium
+T0373,Change button colour,Please make the Save button blue to match the brand Please help.,Email,Low
+T0374,Add dark mode,Request to add a dark mode option in settings Urgent!!,Email,Low
+T0375,Font too small on FAQ,FAQ answers are hard to read on mobile Customer called twice.,Portal,Low
+T0376,Invoice amounts wrong,GST is calculated twice on invoices for some orders Please help.,Portal,Medium
+T0377,Cannot reset password,Several users say the reset email never arrives Thanks.,Phone,High
+T0378,Data breach suspected,We see logins from unknown locations on admin accounts Urgent!!,Portal,High
+T0379,Footer link outdated,The footer still links to last year's offers page,Phone,Low
+T0380,Email notifications delayed,Order confirmation emails arrive an hour late Please help.,Chat,Medium
+T0381,Profile photo upload fails,Uploading a PNG profile photo shows an error Thanks.,Phone,Medium
+T0382,Profile photo upload fails,Uploading a PNG profile photo shows an error Customer called twice.,Chat,Medium
+T0383,Cannot reset password,Several users say the reset email never arrives Raised by support team.,Phone,High
+T0384,Wrong delivery date shown,Order O100691 shows the wrong expected delivery date Seen since morning.,Email,Medium
+T0385,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Thanks.",Chat,Medium
+T0386,Wrong delivery date shown,Order O100014 shows the wrong expected delivery date Seen since morning.,Chat,Medium
+T0387,Orders not syncing to warehouse,"No orders have reached the warehouse system since last night, dispatch is blocked Customer called twice.",Email,Critical
+T0388,Cannot reset password,Several users say the reset email never arrives Seen since morning.,Portal,High
+T0389,Footer link outdated,The footer still links to last year's offers page Raised by support team.,Email,Low
+T0390,Email notifications delayed,Order confirmation emails arrive an hour late,Phone,High
+T0391,Wrong delivery date shown,Order O101149 shows the wrong expected delivery date Please help.,Email,Medium
+T0392,Refund not processed,"Customer refund for order O101121 pending for 10 days, customer escalated Customer called twice.",Email,High
+T0393,Payment gateway down,"Customers cannot pay at checkout, all payments failing since 9 AM Thanks.",Email,Critical
+T0394,Email notifications delayed,Order confirmation emails arrive an hour late Not sure if it's related.,Chat,Medium
+T0395,Report export slow,The monthly sales export takes 5 minutes Please help.,Portal,Medium
+T0396,Report export slow,The monthly sales export takes 5 minutes Customer called twice.,Phone,Medium
+T0397,Invoice amounts wrong,GST is calculated twice on invoices for some orders Thanks.,Portal,High
+T0398,Wrong delivery date shown,Order O100023 shows the wrong expected delivery date Seen since morning.,Portal,Medium
+T0399,Footer link outdated,The footer still links to last year's offers page Thanks.,Portal,Low
+T0400,Email notifications delayed,Order confirmation emails arrive an hour late Seen since morning.,Phone,Medium
+T0401,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Urgent!!",Phone,Medium
+T0402,Slow checkout,Checkout takes over 30 seconds during evening hours Urgent!!,Portal,High
+T0403,Footer link outdated,The footer still links to last year's offers page Seen since morning.,Portal,Low
+T0404,Slow checkout,Checkout takes over 30 seconds during evening hours Seen since morning.,Chat,High
+T0405,Invoice amounts wrong,GST is calculated twice on invoices for some orders Please help.,Email,High
+T0406,Add dark mode,Request to add a dark mode option in settings Seen since morning.,Portal,Low
+T0407,Change button colour,Please make the Save button blue to match the brand URGENT please fix today,Email,Low
+T0408,Report export slow,The monthly sales export takes 5 minutes Raised by support team.,Phone,Medium
+T0409,Refund not processed,"Customer refund for order O100240 pending for 10 days, customer escalated Customer called twice.",Chat,High
+T0410,Orders not syncing to warehouse,"No orders have reached the warehouse system since last night, dispatch is blocked",Portal,High
+T0411,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Raised by support team.",Email,Medium
+T0412,Production site not loading,The main website shows a 500 error for every user Raised by support team.,Phone,Critical
+T0413,Login fails for some users,Users on older Android versions cannot log in Please help.,Portal,High
+T0414,Report export slow,The monthly sales export takes 5 minutes Not sure if it's related.,Email,Medium
+T0415,Footer link outdated,The footer still links to last year's offers page URGENT please fix today,Chat,Low
+T0416,Wrong delivery date shown,Order O100613 shows the wrong expected delivery date Please help.,Chat,High
+T0417,Profile photo upload fails,Uploading a PNG profile photo shows an error Customer called twice.,Phone,Low
+T0418,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Raised by support team.",Portal,Medium
+T0419,Change button colour,Please make the Save button blue to match the brand URGENT please fix today,Email,Low
+T0420,Email notifications delayed,Order confirmation emails arrive an hour late Not sure if it's related.,Email,High
+T0421,Footer link outdated,The footer still links to last year's offers page Please help.,Email,Low
+T0422,Change button colour,Please make the Save button blue to match the brand Customer called twice.,Chat,Low
+T0423,Font too small on FAQ,FAQ answers are hard to read on mobile Please help.,Portal,Low
+T0424,Wrong delivery date shown,Order O100558 shows the wrong expected delivery date Customer called twice.,Phone,Medium
+T0425,Invoice amounts wrong,GST is calculated twice on invoices for some orders Thanks.,Phone,High
+T0426,App crashes on launch for all users,After the update the mobile app crashes immediately on open Thanks.,Chat,Critical
+T0427,Font too small on FAQ,FAQ answers are hard to read on mobile,Chat,Low
+T0428,Add dark mode,Request to add a dark mode option in settings URGENT please fix today,Email,Low
+T0429,Production site not loading,The main website shows a 500 error for every user Raised by support team.,Phone,Critical
+T0430,Font too small on FAQ,FAQ answers are hard to read on mobile Raised by support team.,Chat,Low
+T0431,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Thanks.",Portal,Low
+T0432,Login fails for some users,Users on older Android versions cannot log in,Portal,High
+T0433,Production site not loading,The main website shows a 500 error for every user Urgent!!,Chat,Critical
+T0434,Production site not loading,The main website shows a 500 error for every user Please help.,Email,Critical
+T0435,Cannot reset password,Several users say the reset email never arrives Thanks.,Chat,High
+T0436,Report export slow,The monthly sales export takes 5 minutes Raised by support team.,Email,Medium
+T0437,Email notifications delayed,Order confirmation emails arrive an hour late Raised by support team.,Portal,Medium
+T0438,Refund not processed,"Customer refund for order O100485 pending for 10 days, customer escalated Seen since morning.",Phone,High
+T0439,Footer link outdated,The footer still links to last year's offers page Thanks.,Portal,Low
+T0440,Refund not processed,"Customer refund for order O100416 pending for 10 days, customer escalated Urgent!!",Portal,High
+T0441,Wrong delivery date shown,Order O100834 shows the wrong expected delivery date Urgent!!,Email,Medium
+T0442,Wrong delivery date shown,Order O100209 shows the wrong expected delivery date Raised by support team.,Phone,Medium
+T0443,Production site not loading,The main website shows a 500 error for every user Seen since morning.,Chat,Critical
+T0444,Profile photo upload fails,Uploading a PNG profile photo shows an error Please help.,Phone,Medium
+T0445,Report export slow,The monthly sales export takes 5 minutes Raised by support team.,Portal,Medium
+T0446,Add dark mode,Request to add a dark mode option in settings Thanks.,Phone,Low
+T0447,Font too small on FAQ,FAQ answers are hard to read on mobile Raised by support team.,Phone,Low
+T0448,Refund not processed,"Customer refund for order O100282 pending for 10 days, customer escalated Please help.",Chat,High
+T0449,Add dark mode,Request to add a dark mode option in settings Not sure if it's related.,Phone,Low
+T0450,Profile photo upload fails,Uploading a PNG profile photo shows an error Raised by support team.,Chat,Medium
+T0451,Report export slow,The monthly sales export takes 5 minutes Raised by support team.,Portal,Medium
+T0452,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Thanks.",Phone,Low
+T0453,Add dark mode,Request to add a dark mode option in settings Not sure if it's related.,Email,Low
+T0454,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place URGENT please fix today",Portal,Low
+T0455,App crashes on launch for all users,After the update the mobile app crashes immediately on open Not sure if it's related.,Chat,Critical
+T0456,App crashes on launch for all users,After the update the mobile app crashes immediately on open,Chat,Critical
+T0457,Data breach suspected,We see logins from unknown locations on admin accounts Raised by support team.,Chat,Critical
+T0458,Payment gateway down,"Customers cannot pay at checkout, all payments failing since 2 PM Customer called twice.",Email,Critical
+T0459,Wrong delivery date shown,Order O100678 shows the wrong expected delivery date Thanks.,Email,Medium
+T0460,Report export slow,The monthly sales export takes 5 minutes Customer called twice.,Portal,Medium
+T0461,Login fails for some users,Users on older Android versions cannot log in,Email,High
+T0462,Report export slow,The monthly sales export takes 5 minutes Please help.,Email,Medium
+T0463,Profile photo upload fails,Uploading a PNG profile photo shows an error Customer called twice.,Portal,Medium
+T0464,Footer link outdated,The footer still links to last year's offers page Urgent!!,Phone,Low
+T0465,Footer link outdated,The footer still links to last year's offers page Thanks.,Chat,Low
+T0466,Refund not processed,"Customer refund for order O100045 pending for 10 days, customer escalated Please help.",Email,High
+T0467,Orders not syncing to warehouse,"No orders have reached the warehouse system since last night, dispatch is blocked Please help.",Email,Critical
+T0468,Add dark mode,Request to add a dark mode option in settings URGENT please fix today,Email,Low
+T0469,Footer link outdated,The footer still links to last year's offers page Customer called twice.,Chat,Low
+T0470,Production site not loading,The main website shows a 500 error for every user,Chat,Critical
+T0471,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Seen since morning.",Email,Low
+T0472,Email notifications delayed,Order confirmation emails arrive an hour late Urgent!!,Portal,High
+T0473,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Customer called twice.",Chat,Medium
+T0474,Refund not processed,"Customer refund for order O100199 pending for 10 days, customer escalated Urgent!!",Portal,High
+T0475,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Not sure if it's related.",Chat,Medium
+T0476,Font too small on FAQ,FAQ answers are hard to read on mobile Seen since morning.,Phone,Low
+T0477,Add dark mode,Request to add a dark mode option in settings,Phone,Low
+T0478,Refund not processed,"Customer refund for order O100586 pending for 10 days, customer escalated Not sure if it's related.",Email,High
+T0479,Invoice amounts wrong,GST is calculated twice on invoices for some orders Please help.,Phone,High
+T0480,Add dark mode,Request to add a dark mode option in settings Seen since morning.,Email,Low
+T0481,Footer link outdated,The footer still links to last year's offers page Not sure if it's related.,Chat,Low
+T0482,Report export slow,The monthly sales export takes 5 minutes Please help.,Email,Medium
+T0483,Footer link outdated,The footer still links to last year's offers page Thanks.,Email,Low
+T0484,Footer link outdated,The footer still links to last year's offers page,Email,Low
+T0485,Email notifications delayed,Order confirmation emails arrive an hour late Customer called twice.,Portal,Medium
+T0486,Footer link outdated,The footer still links to last year's offers page Seen since morning.,Phone,Low
+T0487,Invoice amounts wrong,GST is calculated twice on invoices for some orders Raised by support team.,Email,High
+T0488,Wrong delivery date shown,Order O101051 shows the wrong expected delivery date Seen since morning.,Phone,Medium
+T0489,Report export slow,The monthly sales export takes 5 minutes,Portal,Medium
+T0490,Font too small on FAQ,FAQ answers are hard to read on mobile Customer called twice.,Email,Low
+T0491,Change button colour,Please make the Save button blue to match the brand Urgent!!,Phone,Low
+T0492,Font too small on FAQ,FAQ answers are hard to read on mobile Please help.,Email,Low
+T0493,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Seen since morning.",Chat,Medium
+T0494,Login fails for some users,Users on older Android versions cannot log in Raised by support team.,Email,High
+T0495,Login fails for some users,Users on older Android versions cannot log in Not sure if it's related.,Chat,High
+T0496,Email notifications delayed,Order confirmation emails arrive an hour late Thanks.,Portal,High
+T0497,Add dark mode,Request to add a dark mode option in settings Customer called twice.,Email,Low
+T0498,Payment gateway down,"Customers cannot pay at checkout, all payments failing since 2 PM Not sure if it's related.",Portal,Critical
+T0499,Change button colour,Please make the Save button blue to match the brand URGENT please fix today,Portal,Low
+T0500,Wrong delivery date shown,Order O100491 shows the wrong expected delivery date Please help.,Phone,Medium
+T0501,Footer link outdated,The footer still links to last year's offers page,Chat,Low
+T0502,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Raised by support team.",Chat,Medium
+T0503,Cannot reset password,Several users say the reset email never arrives Not sure if it's related.,Portal,High
+T0504,Refund not processed,"Customer refund for order O100404 pending for 10 days, customer escalated",Portal,High
+T0505,Change button colour,Please make the Save button blue to match the brand Please help.,Email,Low
+T0506,Slow checkout,Checkout takes over 30 seconds during evening hours Please help.,Chat,High
+T0507,Invoice amounts wrong,GST is calculated twice on invoices for some orders,Email,Medium
+T0508,Refund not processed,"Customer refund for order O100763 pending for 10 days, customer escalated Not sure if it's related.",Phone,High
+T0509,Wrong delivery date shown,Order O100616 shows the wrong expected delivery date Customer called twice.,Chat,Medium
+T0510,Cannot reset password,Several users say the reset email never arrives Raised by support team.,Portal,High
+T0511,Refund not processed,"Customer refund for order O100174 pending for 10 days, customer escalated Not sure if it's related.",Portal,High
+T0512,Report export slow,The monthly sales export takes 5 minutes Customer called twice.,Portal,Medium
+T0513,Slow checkout,Checkout takes over 30 seconds during evening hours Raised by support team.,Chat,High
+T0514,Slow checkout,Checkout takes over 30 seconds during evening hours Urgent!!,Portal,High
+T0515,Footer link outdated,The footer still links to last year's offers page Urgent!!,Email,Low
+T0516,Wrong delivery date shown,Order O100213 shows the wrong expected delivery date Please help.,Portal,Medium
+T0517,Email notifications delayed,Order confirmation emails arrive an hour late,Email,Medium
+T0518,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Urgent!!",Portal,Medium
+T0519,Font too small on FAQ,FAQ answers are hard to read on mobile,Portal,Low
+T0520,Add dark mode,Request to add a dark mode option in settings,Chat,Low
+T0521,Change button colour,Please make the Save button blue to match the brand Not sure if it's related.,Phone,Low
+T0522,Profile photo upload fails,Uploading a PNG profile photo shows an error Urgent!!,Chat,Medium
+T0523,Footer link outdated,The footer still links to last year's offers page Seen since morning.,Email,Low
+T0524,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place",Chat,Low
+T0525,Orders not syncing to warehouse,"No orders have reached the warehouse system since 9 AM, dispatch is blocked Seen since morning.",Email,Critical
+T0526,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Please help.",Phone,Medium
+T0527,Search results not relevant,"Searching for ""mouse"" shows bedsheets first",Email,Medium
+T0528,Invoice amounts wrong,GST is calculated twice on invoices for some orders Please help.,Phone,High
+T0529,Add dark mode,Request to add a dark mode option in settings Thanks.,Email,Low
+T0530,Report export slow,The monthly sales export takes 5 minutes Raised by support team.,Portal,Medium
+T0531,Slow checkout,Checkout takes over 30 seconds during evening hours Please help.,Chat,High
+T0532,Email notifications delayed,Order confirmation emails arrive an hour late,Email,High
+T0533,Footer link outdated,The footer still links to last year's offers page Please help.,Email,Low
+T0534,Report export slow,The monthly sales export takes 5 minutes Please help.,Email,High
+T0535,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Raised by support team.",Portal,Medium
+T0536,App crashes on launch for all users,After the update the mobile app crashes immediately on open Raised by support team.,Email,Critical
+T0537,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Not sure if it's related.",Portal,Low
+T0538,Login fails for some users,Users on older Android versions cannot log in Seen since morning.,Portal,Medium
+T0539,Footer link outdated,The footer still links to last year's offers page Raised by support team.,Phone,Low
+T0540,Add dark mode,Request to add a dark mode option in settings URGENT please fix today,Chat,Low
+T0541,Report export slow,The monthly sales export takes 5 minutes Raised by support team.,Phone,Medium
+T0542,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Please help.",Email,Low
+T0543,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Urgent!!",Phone,Medium
+T0544,Email notifications delayed,Order confirmation emails arrive an hour late Not sure if it's related.,Email,Medium
+T0545,Login fails for some users,Users on older Android versions cannot log in Urgent!!,Chat,High
+T0546,Data breach suspected,We see logins from unknown locations on admin accounts Please help.,Portal,Critical
+T0547,Invoice amounts wrong,GST is calculated twice on invoices for some orders Urgent!!,Email,Critical
+T0548,Font too small on FAQ,FAQ answers are hard to read on mobile URGENT please fix today,Chat,Low
+T0549,Profile photo upload fails,Uploading a PNG profile photo shows an error Seen since morning.,Phone,Medium
+T0550,Profile photo upload fails,Uploading a PNG profile photo shows an error Raised by support team.,Phone,Medium
+T0551,Wrong delivery date shown,Order O100622 shows the wrong expected delivery date Customer called twice.,Chat,Medium
+T0552,Slow checkout,Checkout takes over 30 seconds during evening hours Customer called twice.,Chat,High
+T0553,Change button colour,Please make the Save button blue to match the brand Raised by support team.,Chat,Low
+T0554,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Thanks.",Portal,Medium
+T0555,Login fails for some users,Users on older Android versions cannot log in Seen since morning.,Email,High
+T0556,Invoice amounts wrong,GST is calculated twice on invoices for some orders Raised by support team.,Phone,High
+T0557,Cannot reset password,Several users say the reset email never arrives Not sure if it's related.,Email,High
+T0558,Email notifications delayed,Order confirmation emails arrive an hour late Seen since morning.,Chat,Low
+T0559,Footer link outdated,The footer still links to last year's offers page Customer called twice.,Phone,Low
+T0560,Cannot reset password,Several users say the reset email never arrives Urgent!!,Chat,High
+T0561,Font too small on FAQ,FAQ answers are hard to read on mobile Urgent!!,Email,Low
+T0562,Footer link outdated,The footer still links to last year's offers page Seen since morning.,Portal,Low
+T0563,Wrong delivery date shown,Order O101095 shows the wrong expected delivery date Thanks.,Email,Medium
+T0564,Change button colour,Please make the Save button blue to match the brand,Portal,Low
+T0565,Invoice amounts wrong,GST is calculated twice on invoices for some orders Thanks.,Portal,High
+T0566,Profile photo upload fails,Uploading a PNG profile photo shows an error Not sure if it's related.,Phone,Medium
+T0567,Invoice amounts wrong,GST is calculated twice on invoices for some orders Raised by support team.,Email,High
+T0568,Refund not processed,"Customer refund for order O100684 pending for 10 days, customer escalated Raised by support team.",Email,Critical
+T0569,Footer link outdated,The footer still links to last year's offers page,Chat,Low
+T0570,Add dark mode,Request to add a dark mode option in settings Customer called twice.,Phone,Low
+T0571,Footer link outdated,The footer still links to last year's offers page URGENT please fix today,Chat,Low
+T0572,Font too small on FAQ,FAQ answers are hard to read on mobile URGENT please fix today,Email,Low
+T0573,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Customer called twice.",Chat,Low
+T0574,Font too small on FAQ,FAQ answers are hard to read on mobile Thanks.,Chat,Low
+T0575,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Thanks.",Email,Low
+T0576,Change button colour,Please make the Save button blue to match the brand Please help.,Phone,Low
+T0577,Email notifications delayed,Order confirmation emails arrive an hour late Raised by support team.,Chat,Medium
+T0578,Font too small on FAQ,FAQ answers are hard to read on mobile URGENT please fix today,Phone,Low
+T0579,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Raised by support team.",Portal,Low
+T0580,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Thanks.",Phone,Low
+T0581,Email notifications delayed,Order confirmation emails arrive an hour late Customer called twice.,Portal,Medium
+T0582,Font too small on FAQ,FAQ answers are hard to read on mobile Thanks.,Phone,Low
+T0583,Email notifications delayed,Order confirmation emails arrive an hour late Customer called twice.,Portal,Medium
+T0584,Report export slow,The monthly sales export takes 5 minutes Not sure if it's related.,Chat,Medium
+T0585,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Please help.",Phone,Medium
+T0586,Wrong delivery date shown,Order O100692 shows the wrong expected delivery date Please help.,Phone,Medium
+T0587,Add dark mode,Request to add a dark mode option in settings Customer called twice.,Phone,Low
+T0588,Report export slow,The monthly sales export takes 5 minutes Raised by support team.,Email,Medium
+T0589,Slow checkout,Checkout takes over 30 seconds during evening hours Urgent!!,Chat,High
+T0590,Wrong delivery date shown,Order O100571 shows the wrong expected delivery date Seen since morning.,Phone,Medium
+T0591,Orders not syncing to warehouse,"No orders have reached the warehouse system since 9 AM, dispatch is blocked Seen since morning.",Email,Critical
+T0592,Data breach suspected,We see logins from unknown locations on admin accounts Seen since morning.,Phone,Critical
+T0593,Font too small on FAQ,FAQ answers are hard to read on mobile Raised by support team.,Phone,Low
+T0594,Add dark mode,Request to add a dark mode option in settings Raised by support team.,Email,Low
+T0595,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Thanks.",Portal,Medium
+T0596,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Not sure if it's related.",Chat,Medium
+T0597,Cannot reset password,Several users say the reset email never arrives Customer called twice.,Email,High
+T0598,Profile photo upload fails,Uploading a PNG profile photo shows an error Raised by support team.,Portal,Medium
+T0599,Wrong delivery date shown,Order O100237 shows the wrong expected delivery date Urgent!!,Portal,Medium
+T0600,Footer link outdated,The footer still links to last year's offers page URGENT please fix today,Email,Medium
+T0601,Email notifications delayed,Order confirmation emails arrive an hour late Thanks.,Phone,Medium
+T0602,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Please help.",Phone,Medium
+T0603,Wrong delivery date shown,Order O100450 shows the wrong expected delivery date Not sure if it's related.,Phone,Medium
+T0604,Font too small on FAQ,FAQ answers are hard to read on mobile,Portal,Low
+T0605,Email notifications delayed,Order confirmation emails arrive an hour late Urgent!!,Portal,Medium
+T0606,Footer link outdated,The footer still links to last year's offers page Please help.,Chat,Low
+T0607,Slow checkout,Checkout takes over 30 seconds during evening hours,Chat,High
+T0608,Production site not loading,The main website shows a 500 error for every user Thanks.,Chat,Critical
+T0609,Add dark mode,Request to add a dark mode option in settings Urgent!!,Chat,Low
+T0610,Payment gateway down,"Customers cannot pay at checkout, all payments failing since last night Please help.",Phone,Critical
+T0611,Report export slow,The monthly sales export takes 5 minutes Urgent!!,Phone,Medium
+T0612,Profile photo upload fails,Uploading a PNG profile photo shows an error Please help.,Email,Medium
+T0613,Change button colour,Please make the Save button blue to match the brand Seen since morning.,Portal,Low
+T0614,Wrong delivery date shown,Order O100682 shows the wrong expected delivery date,Email,Medium
+T0615,Footer link outdated,The footer still links to last year's offers page URGENT please fix today,Portal,Low
+T0616,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place",Chat,Low
+T0617,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Seen since morning.",Portal,Medium
+T0618,App crashes on launch for all users,After the update the mobile app crashes immediately on open Thanks.,Chat,Critical
+T0619,Orders not syncing to warehouse,"No orders have reached the warehouse system since 2 PM, dispatch is blocked",Phone,Critical
+T0620,Profile photo upload fails,Uploading a PNG profile photo shows an error Not sure if it's related.,Phone,Medium
+T0621,Slow checkout,Checkout takes over 30 seconds during evening hours Customer called twice.,Chat,High
+T0622,Change button colour,Please make the Save button blue to match the brand Seen since morning.,Chat,Low
+T0623,Invoice amounts wrong,GST is calculated twice on invoices for some orders Customer called twice.,Phone,High
+T0624,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Please help.",Portal,Medium
+T0625,Profile photo upload fails,Uploading a PNG profile photo shows an error,Chat,Medium
+T0626,Change button colour,Please make the Save button blue to match the brand URGENT please fix today,Chat,Low
+T0627,Data breach suspected,We see logins from unknown locations on admin accounts Raised by support team.,Chat,Critical
+T0628,Wrong delivery date shown,Order O100375 shows the wrong expected delivery date Thanks.,Portal,Medium
+T0629,Login fails for some users,Users on older Android versions cannot log in Urgent!!,Portal,High
+T0630,Wrong delivery date shown,Order O100185 shows the wrong expected delivery date Thanks.,Portal,Medium
+T0631,Font too small on FAQ,FAQ answers are hard to read on mobile Customer called twice.,Portal,Low
+T0632,Change button colour,Please make the Save button blue to match the brand URGENT please fix today,Chat,Low
+T0633,App crashes on launch for all users,After the update the mobile app crashes immediately on open,Chat,Critical
+T0634,Slow checkout,Checkout takes over 30 seconds during evening hours Thanks.,Email,High
+T0635,Production site not loading,The main website shows a 500 error for every user Thanks.,Email,Critical
+T0636,Cannot reset password,Several users say the reset email never arrives Customer called twice.,Chat,High
+T0637,Font too small on FAQ,FAQ answers are hard to read on mobile Please help.,Email,Low
+T0638,Add dark mode,Request to add a dark mode option in settings Thanks.,Email,Low
+T0639,Email notifications delayed,Order confirmation emails arrive an hour late Raised by support team.,Portal,Medium
+T0640,Slow checkout,Checkout takes over 30 seconds during evening hours Customer called twice.,Chat,High
+T0641,Report export slow,The monthly sales export takes 5 minutes Thanks.,Phone,Medium
+T0642,Wrong delivery date shown,Order O100138 shows the wrong expected delivery date Urgent!!,Email,Medium
+T0643,Change button colour,Please make the Save button blue to match the brand Please help.,Phone,Low
+T0644,Font too small on FAQ,FAQ answers are hard to read on mobile Customer called twice.,Email,Low
+T0645,Login fails for some users,Users on older Android versions cannot log in,Portal,High
+T0646,Wrong delivery date shown,Order O100538 shows the wrong expected delivery date,Phone,Medium
+T0647,Profile photo upload fails,Uploading a PNG profile photo shows an error Customer called twice.,Email,Medium
+T0648,Login fails for some users,Users on older Android versions cannot log in,Portal,High
+T0649,Refund not processed,"Customer refund for order O100836 pending for 10 days, customer escalated Raised by support team.",Phone,High
+T0650,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Please help.",Phone,High
+T0651,Report export slow,The monthly sales export takes 5 minutes Urgent!!,Phone,Medium
+T0652,Font too small on FAQ,FAQ answers are hard to read on mobile Not sure if it's related.,Email,Low
+T0653,App crashes on launch for all users,After the update the mobile app crashes immediately on open Thanks.,Phone,Critical
+T0654,Report export slow,The monthly sales export takes 5 minutes,Email,Medium
+T0655,Add dark mode,Request to add a dark mode option in settings Please help.,Phone,Low
+T0656,Payment gateway down,"Customers cannot pay at checkout, all payments failing since 2 PM Please help.",Chat,Critical
+T0657,Cannot reset password,Several users say the reset email never arrives Thanks.,Portal,High
+T0658,Report export slow,The monthly sales export takes 5 minutes Please help.,Email,Medium
+T0659,Cannot reset password,Several users say the reset email never arrives,Chat,High
+T0660,Data breach suspected,We see logins from unknown locations on admin accounts Seen since morning.,Portal,Critical
+T0661,Wrong delivery date shown,Order O100674 shows the wrong expected delivery date Thanks.,Chat,Medium
+T0662,Wrong delivery date shown,Order O100766 shows the wrong expected delivery date Urgent!!,Email,Medium
+T0663,Footer link outdated,The footer still links to last year's offers page Urgent!!,Email,Low
+T0664,Login fails for some users,Users on older Android versions cannot log in Urgent!!,Email,High
+T0665,Slow checkout,Checkout takes over 30 seconds during evening hours Raised by support team.,Portal,High
+T0666,Change button colour,Please make the Save button blue to match the brand Raised by support team.,Portal,Low
+T0667,Report export slow,The monthly sales export takes 5 minutes Customer called twice.,Chat,High
+T0668,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Raised by support team.",Chat,Medium
+T0669,Footer link outdated,The footer still links to last year's offers page Thanks.,Email,Medium
+T0670,Font too small on FAQ,FAQ answers are hard to read on mobile Raised by support team.,Email,Low
+T0671,Email notifications delayed,Order confirmation emails arrive an hour late Please help.,Email,Medium
+T0672,Wrong delivery date shown,Order O101062 shows the wrong expected delivery date Seen since morning.,Phone,Medium
+T0673,Cannot reset password,Several users say the reset email never arrives Not sure if it's related.,Chat,High
+T0674,Report export slow,The monthly sales export takes 5 minutes Please help.,Chat,Medium
+T0675,Profile photo upload fails,Uploading a PNG profile photo shows an error,Chat,Medium
+T0676,Cannot reset password,Several users say the reset email never arrives Raised by support team.,Portal,High
+T0677,Font too small on FAQ,FAQ answers are hard to read on mobile Seen since morning.,Phone,Low
+T0678,Font too small on FAQ,FAQ answers are hard to read on mobile Seen since morning.,Email,Low
+T0679,Add dark mode,Request to add a dark mode option in settings Seen since morning.,Phone,Low
+T0680,Footer link outdated,The footer still links to last year's offers page URGENT please fix today,Email,Low
+T0681,Slow checkout,Checkout takes over 30 seconds during evening hours,Email,High
+T0682,Change button colour,Please make the Save button blue to match the brand Thanks.,Phone,Low
+T0683,Wrong delivery date shown,Order O100647 shows the wrong expected delivery date Urgent!!,Chat,Medium
+T0684,Profile photo upload fails,Uploading a PNG profile photo shows an error,Chat,Medium
+T0685,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place URGENT please fix today",Phone,Low
+T0686,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Please help.",Portal,Low
+T0687,Cannot reset password,Several users say the reset email never arrives Please help.,Phone,High
+T0688,Report export slow,The monthly sales export takes 5 minutes Urgent!!,Phone,High
+T0689,Font too small on FAQ,FAQ answers are hard to read on mobile Raised by support team.,Chat,Low
+T0690,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Not sure if it's related.",Chat,Medium
+T0691,Change button colour,Please make the Save button blue to match the brand Customer called twice.,Chat,Low
+T0692,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Customer called twice.",Email,Medium
+T0693,Orders not syncing to warehouse,"No orders have reached the warehouse system since 2 PM, dispatch is blocked Raised by support team.",Portal,Critical
+T0694,Change button colour,Please make the Save button blue to match the brand Urgent!!,Email,Low
+T0695,Orders not syncing to warehouse,"No orders have reached the warehouse system since last night, dispatch is blocked Not sure if it's related.",Phone,Critical
+T0696,Wrong delivery date shown,Order O100023 shows the wrong expected delivery date Customer called twice.,Phone,Medium
+T0697,Email notifications delayed,Order confirmation emails arrive an hour late Urgent!!,Chat,Medium
+T0698,Refund not processed,"Customer refund for order O100106 pending for 10 days, customer escalated Thanks.",Email,High
+T0699,Profile photo upload fails,Uploading a PNG profile photo shows an error Raised by support team.,Portal,Medium
+T0700,Report export slow,The monthly sales export takes 5 minutes Please help.,Email,Medium
+T0701,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Thanks.",Chat,Medium
+T0702,Invoice amounts wrong,GST is calculated twice on invoices for some orders Customer called twice.,Email,High
+T0703,Font too small on FAQ,FAQ answers are hard to read on mobile Raised by support team.,Phone,Low
+T0704,Wrong delivery date shown,Order O100958 shows the wrong expected delivery date,Email,Medium
+T0705,Change button colour,Please make the Save button blue to match the brand,Phone,Low
+T0706,Refund not processed,"Customer refund for order O100108 pending for 10 days, customer escalated Thanks.",Chat,High
+T0707,Report export slow,The monthly sales export takes 5 minutes Customer called twice.,Portal,Medium
+T0708,Footer link outdated,The footer still links to last year's offers page,Portal,Low
+T0709,Data breach suspected,We see logins from unknown locations on admin accounts Please help.,Portal,Critical
+T0710,Slow checkout,Checkout takes over 30 seconds during evening hours Not sure if it's related.,Portal,High
+T0711,Footer link outdated,The footer still links to last year's offers page Customer called twice.,Portal,Low
+T0712,Font too small on FAQ,FAQ answers are hard to read on mobile Not sure if it's related.,Email,Low
+T0713,Footer link outdated,The footer still links to last year's offers page URGENT please fix today,Phone,Low
+T0714,Change button colour,Please make the Save button blue to match the brand URGENT please fix today,Chat,Low
+T0715,Wrong delivery date shown,Order O100709 shows the wrong expected delivery date Urgent!!,Phone,Medium
+T0716,Login fails for some users,Users on older Android versions cannot log in Urgent!!,Email,High
+T0717,Email notifications delayed,Order confirmation emails arrive an hour late Urgent!!,Email,Medium
+T0718,Refund not processed,"Customer refund for order O100897 pending for 10 days, customer escalated Urgent!!",Email,High
+T0719,Login fails for some users,Users on older Android versions cannot log in Customer called twice.,Phone,High
+T0720,Refund not processed,"Customer refund for order O100386 pending for 10 days, customer escalated Thanks.",Portal,High
+T0721,Report export slow,The monthly sales export takes 5 minutes Please help.,Email,Medium
+T0722,Login fails for some users,Users on older Android versions cannot log in Seen since morning.,Portal,High
+T0723,Add dark mode,Request to add a dark mode option in settings Raised by support team.,Email,Low
+T0724,Footer link outdated,The footer still links to last year's offers page Please help.,Phone,Low
+T0725,Invoice amounts wrong,GST is calculated twice on invoices for some orders Thanks.,Email,High
+T0726,Slow checkout,Checkout takes over 30 seconds during evening hours Urgent!!,Phone,Medium
+T0727,Cannot reset password,Several users say the reset email never arrives Urgent!!,Chat,High
+T0728,Cannot reset password,Several users say the reset email never arrives Raised by support team.,Email,High
+T0729,Wrong delivery date shown,Order O100132 shows the wrong expected delivery date Raised by support team.,Email,High
+T0730,Footer link outdated,The footer still links to last year's offers page URGENT please fix today,Phone,Low
+T0731,Profile photo upload fails,Uploading a PNG profile photo shows an error Seen since morning.,Phone,Medium
+T0732,Cannot reset password,Several users say the reset email never arrives Please help.,Portal,High
+T0733,Font too small on FAQ,FAQ answers are hard to read on mobile Customer called twice.,Portal,Low
+T0734,Payment gateway down,"Customers cannot pay at checkout, all payments failing since 2 PM",Phone,Critical
+T0735,Search results not relevant,"Searching for ""mouse"" shows bedsheets first",Chat,Medium
+T0736,Wrong delivery date shown,Order O101117 shows the wrong expected delivery date Raised by support team.,Portal,Medium
+T0737,Wrong delivery date shown,Order O100592 shows the wrong expected delivery date Raised by support team.,Email,Medium
+T0738,Invoice amounts wrong,GST is calculated twice on invoices for some orders,Email,High
+T0739,Add dark mode,Request to add a dark mode option in settings Not sure if it's related.,Phone,Medium
+T0740,Profile photo upload fails,Uploading a PNG profile photo shows an error,Email,Medium
+T0741,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place URGENT please fix today",Email,Low
+T0742,Email notifications delayed,Order confirmation emails arrive an hour late Please help.,Chat,Medium
+T0743,Login fails for some users,Users on older Android versions cannot log in Urgent!!,Phone,High
+T0744,Orders not syncing to warehouse,"No orders have reached the warehouse system since 9 AM, dispatch is blocked Seen since morning.",Phone,Critical
+T0745,Report export slow,The monthly sales export takes 5 minutes,Chat,High
+T0746,Change button colour,Please make the Save button blue to match the brand Please help.,Portal,Low
+T0747,Report export slow,The monthly sales export takes 5 minutes Not sure if it's related.,Email,Medium
+T0748,Slow checkout,Checkout takes over 30 seconds during evening hours Not sure if it's related.,Chat,Critical
+T0749,Report export slow,The monthly sales export takes 5 minutes Raised by support team.,Email,Medium
+T0750,Login fails for some users,Users on older Android versions cannot log in Seen since morning.,Chat,High
+T0751,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Please help.",Chat,Medium
+T0752,Report export slow,The monthly sales export takes 5 minutes,Phone,Medium
+T0753,Login fails for some users,Users on older Android versions cannot log in Thanks.,Chat,Critical
+T0754,Font too small on FAQ,FAQ answers are hard to read on mobile Not sure if it's related.,Email,Low
+T0755,Email notifications delayed,Order confirmation emails arrive an hour late Thanks.,Chat,Medium
+T0756,Cannot reset password,Several users say the reset email never arrives,Phone,High
+T0757,App crashes on launch for all users,After the update the mobile app crashes immediately on open Seen since morning.,Phone,Critical
+T0758,Wrong delivery date shown,Order O100424 shows the wrong expected delivery date,Chat,Medium
+T0759,Refund not processed,"Customer refund for order O100441 pending for 10 days, customer escalated Please help.",Phone,High
+T0760,Orders not syncing to warehouse,"No orders have reached the warehouse system since last night, dispatch is blocked Urgent!!",Chat,Critical
+T0761,Refund not processed,"Customer refund for order O100376 pending for 10 days, customer escalated Raised by support team.",Phone,High
+T0762,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place Please help.",Chat,Low
+T0763,Login fails for some users,Users on older Android versions cannot log in Seen since morning.,Portal,High
+T0764,Add dark mode,Request to add a dark mode option in settings Urgent!!,Chat,Low
+T0765,Wrong delivery date shown,Order O100651 shows the wrong expected delivery date Customer called twice.,Email,Medium
+T0766,Email notifications delayed,Order confirmation emails arrive an hour late Please help.,Email,Medium
+T0767,Slow checkout,Checkout takes over 30 seconds during evening hours Please help.,Portal,High
+T0768,Email notifications delayed,Order confirmation emails arrive an hour late Seen since morning.,Email,Medium
+T0769,Change button colour,Please make the Save button blue to match the brand,Chat,Low
+T0770,Add dark mode,Request to add a dark mode option in settings Urgent!!,Email,Low
+T0771,Slow checkout,Checkout takes over 30 seconds during evening hours Raised by support team.,Chat,High
+T0772,Footer link outdated,The footer still links to last year's offers page,Phone,Low
+T0773,Email notifications delayed,Order confirmation emails arrive an hour late Raised by support team.,Phone,Medium
+T0774,Orders not syncing to warehouse,"No orders have reached the warehouse system since 9 AM, dispatch is blocked Please help.",Email,Critical
+T0775,Report export slow,The monthly sales export takes 5 minutes,Email,Medium
+T0776,Profile photo upload fails,Uploading a PNG profile photo shows an error,Email,Medium
+T0777,Data breach suspected,We see logins from unknown locations on admin accounts,Phone,High
+T0778,Email notifications delayed,Order confirmation emails arrive an hour late Thanks.,Portal,Medium
+T0779,Slow checkout,Checkout takes over 30 seconds during evening hours,Email,High
+T0780,Email notifications delayed,Order confirmation emails arrive an hour late Customer called twice.,Email,Medium
+T0781,Profile photo upload fails,Uploading a PNG profile photo shows an error Please help.,Email,Medium
+T0782,Add dark mode,Request to add a dark mode option in settings Urgent!!,Email,Low
+T0783,Change button colour,Please make the Save button blue to match the brand Customer called twice.,Phone,Low
+T0784,Report export slow,The monthly sales export takes 5 minutes Please help.,Email,Medium
+T0785,Wrong delivery date shown,Order O101081 shows the wrong expected delivery date Please help.,Portal,Medium
+T0786,Font too small on FAQ,FAQ answers are hard to read on mobile Urgent!!,Chat,Low
+T0787,Payment gateway down,"Customers cannot pay at checkout, all payments failing since 2 PM Urgent!!",Chat,Critical
+T0788,Change button colour,Please make the Save button blue to match the brand Thanks.,Portal,Low
+T0789,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Raised by support team.",Email,Medium
+T0790,Report export slow,The monthly sales export takes 5 minutes Thanks.,Phone,Medium
+T0791,Typo on About page,"The About page says ""Seanergy"" with a spelling mistake in one place",Email,Low
+T0792,Email notifications delayed,Order confirmation emails arrive an hour late Thanks.,Phone,High
+T0793,Add dark mode,Request to add a dark mode option in settings Raised by support team.,Chat,Low
+T0794,Login fails for some users,Users on older Android versions cannot log in Seen since morning.,Portal,High
+T0795,Search results not relevant,"Searching for ""mouse"" shows bedsheets first Seen since morning.",Chat,Medium
+T0796,Invoice amounts wrong,GST is calculated twice on invoices for some orders Thanks.,Portal,High
+T0797,Slow checkout,Checkout takes over 30 seconds during evening hours Not sure if it's related.,Portal,High
+T0798,Payment gateway down,"Customers cannot pay at checkout, all payments failing since 2 PM Please help.",Portal,Critical
+T0799,Login fails for some users,Users on older Android versions cannot log in Urgent!!,Email,High
+T0800,Cannot reset password,Several users say the reset email never arrives Raised by support team.,Phone,High
